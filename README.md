@@ -1,4 +1,6 @@
 # lady-whistledown
+This is my Bridgerton inspired application to add, delete and edit posts. 
+This is just a fun project to learn Vuejs. (WIP)
 
 ## Project setup
 ```
